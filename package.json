@@ -4,9 +4,6 @@
   "private": true,
   "dependencies": {
     "@adobe/react-spectrum": "^3.11.2",
-    "@spectrum-css/button": "^3.0.3",
-    "@spectrum-css/page": "^3.0.2",
-    "@spectrum-css/vars": "^3.0.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
