@@ -9,7 +9,9 @@ You’ll need to have Node >= 10.16 and npm >= 5.6 on your machine.
 In the project directory, you can run:
 
 first 
-### `npm install`
+### `npm install` 
+
+it will take some time to install
 
 then run npm start to run your application
 
